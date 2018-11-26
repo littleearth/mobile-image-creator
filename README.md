@@ -17,4 +17,5 @@ This tool works by using a few base images (templates provided) it will then cre
 You can also save your configuration to a folder in your project so any time you need to recreate your images it's a simple load and run.
 
 Download the latest build from here
+
 https://github.com/littleearth/mobile-image-creator/tree/master/installer/output
